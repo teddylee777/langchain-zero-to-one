@@ -2,7 +2,7 @@
 
 ![](images/welcome.png)
 
-🌟 **This is an ultimate LangChain tutorial based on the official LangChain documentation, cookbook, and other practical examples. 
+🌟 This is an **ultimate LangChain tutorial** based on the official LangChain documentation, cookbook, and other practical examples. 
 
 With this tutorial, you can learn how to use LangChain more easily and effectively.
 
